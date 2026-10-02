@@ -16,4 +16,4 @@ Python (NumPy, pandas, SciPy, statsmodels, scikit-learn, PyTorch, XGBoost), SQL 
 
 **Contact**
 
-vasiuvlad984@gmail.com · [LinkedIn](https://linkedin.com/in/vlad-vasiu)
+vlad.vasiu@tum.com · [LinkedIn](https://linkedin.com/in/vlad-vasiu)
